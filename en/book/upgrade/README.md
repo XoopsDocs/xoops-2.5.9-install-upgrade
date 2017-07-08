@@ -23,9 +23,3 @@ forums at http://xoops.org/modules/newbb/
  - At the end, upgrade the system module
  - Also update pm, profile and protector modules if installed
  - Don't forget to turn your site back on, if needed
-
-![XOOPS Upgrade](../../assets/upgrade-01.png)
-![XOOPS Upgrade Change Language](../../assets/upgrade-02-change-language.png)
-![XOOPS Upgrade Patch Applied](../../assets/upgrade-05-applied.png)
-![XOOPS Update System Module](../../assets/upgrade-06-update-system-module.png)
-![XOOPS Update Other Modules](../../assets/upgrade-07-update-modules.png)

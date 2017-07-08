@@ -44,17 +44,19 @@ introducing mis-configurations during a system upgrade, where php files
 are no longer executed, and instead are served as plain text!!
 
 Relocating these directories out of the web root makes probing them with
-a browser impossible. Renaming them make finding them even more difficult.
+a browser impossible. Renaming them makes finding them even more difficult.
 While this is not complete protection, it is part of what you would describe
 as defense in depth.
 
 In our example install, we will adopt a strategy of moving these directories
 out of the web root into a separate directory, giving us a directory
 structure that looks like this:
+
 ![Out of Web Root Directory Structure](../../assets/dir-structure-1.png)
 
 If you can't have directories outside the web root, you can try a structure
 like this:
+
 ![In Web Root Directory Structure](../../assets/dir-structure-2.png)
 
 Decide ahead of time how you are going to handle the *xoops_data* and

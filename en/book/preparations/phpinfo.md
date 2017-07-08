@@ -6,6 +6,7 @@ As a pre-install test of the hosting system, a very small, but useful PHP
 script is created locally, and uploaded to the target system.
 
 The PHP script is only one line:
+
 ```php
 <?php phpinfo();
 ```
@@ -13,10 +14,12 @@ The PHP script is only one line:
 Using a text editor, create a file named *info.php* with this one line.
 
 Next, upload this file to your web root.
+
 ![Filezilla info.php Upload](../../assets/filezilla-01-info.png)
 
 Access your script by opening it in your browser, i.e. accessing `http://example.com/info.php`.
 If everything is working correctly, you should see a page something like this:
+
 ![phpinfo() Example](../../assets/php-info.png)
 
 Note: some hosting services may disable the *phpinfo()* function as a security

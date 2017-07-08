@@ -33,6 +33,7 @@ points to our git controlled source code.
 
 In a [WAMP](http://www.wampserver.com/) environment, the default [localhost](http://localhost/)
 page has in the *Tools* section a link to *Add a Virtual Host* which leads here:
+
 ![WAMP Add Virtual Host](../../assets/wamp-vhost-03.png)
 
 Using this you can set up a VirtualHost entry that will drop right into
@@ -53,6 +54,7 @@ Here is an example entry in `wamp64/bin/apache/apache2.x.xx/conf/extra/httpd-vho
 ```
 
 You might also need to add an entry in `Windows/System32/drivers/etc/hosts`:
+
 ```
 127.0.0.1	xoops.localhost
 ```

@@ -8,13 +8,13 @@ step and is required to complete the upgrade properly.
 
 ![XOOPS Update System Module](../../assets/upgrade-06-update-system-module.png)
 
-Select *Update* to perform the update of Sysyem module.
+Select *Update* to perform the update of System module.
 
-## Update XOOPS Supplied Other Modules
+## Update Other XOOPS Supplied Modules
 
 XOOPS ships with three optional modules - pm (Private Messaging,) profile
 (User Profile) and protector (Protector) You should do an update on any
-of these modules that are installed installed.
+of these modules that are installed.
 
 ![XOOPS Update Other Modules](../../assets/upgrade-07-update-modules.png)
 

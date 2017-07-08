@@ -95,8 +95,8 @@ built in, while others need some additions.
 platforms.
 
 **bitnami** offers a wide range of prebuilt application stacks, including
-virtual machine and container images. Their offering can be a valuable
-resource to quickly try out applications (including XOOPS) or various
+virtual machine and container images. Their offerings can be a valuable
+resource to quickly try out applications (including XOOPS) or various web
 technologies. They can be suitable for production as well as development
 use.
 
