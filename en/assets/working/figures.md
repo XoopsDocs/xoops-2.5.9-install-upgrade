@@ -54,3 +54,7 @@
 ![XOOPS Email Setup](../../assets/xoops-04-email-setup.png)
 ![XOOPS System Options](../../assets/xoops-05-system-options.png)
 ![Working with XOOPS Zip on Mobile](../../assets/zip-on-mobile.jpg)
+
+![Exporting a Database with phpMyAdmin](../../assets/phpmyadmin-export-01.png)
+![Using Seach and Replace DB](../../assets/srdb-01.png)
+![Reviewing Changes in SRDB](../../assets/srdb-02s.png)

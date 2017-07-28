@@ -77,3 +77,7 @@
 
 ## Notes for Developers
 * [For Developers](book/developers/README.md)
+
+## Tools
+* [Tools of the Trade](book/tools/README.md)
+
