@@ -38,7 +38,7 @@
 ![XOOPS Installer Modules Installation](../../assets/installer-13.png)
 ![XOOPS Installer Welcome](../../assets/installer-14.png)
 ![XOOPS Installer Welcome on Mobile](../../assets/installer-14-tablet.png)
-![Site Closed on Mobile](../../assets/mobile-site-closed.jpg)
+![Site Closed on Mobile](../../assets/mobile-site-closed.png)
 ![Site Closed](../../assets/open-up-01.png)
 ![General Settings - Turn Site On](../../assets/open-up-02.png)
 ![New Site Home Page](../../assets/open-up-03.png)
@@ -53,7 +53,8 @@
 ![XOOPS Administration Menu](../../assets/xoops-03-admin-menu.png)
 ![XOOPS Email Setup](../../assets/xoops-04-email-setup.png)
 ![XOOPS System Options](../../assets/xoops-05-system-options.png)
-![Working with XOOPS Zip on Mobile](../../assets/zip-on-mobile.jpg)
+![Working with XOOPS Zip on Mobile](../../assets/zip-on-mobile.png)
+![Xoops.org on Mobile](../../assets/xoops-on-mobile.png)
 
 ![Exporting a Database with phpMyAdmin](../../assets/phpmyadmin-export-01.png)
 ![Using Seach and Replace DB](../../assets/srdb-01.png)

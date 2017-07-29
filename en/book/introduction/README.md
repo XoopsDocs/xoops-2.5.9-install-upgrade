@@ -4,3 +4,5 @@
 
 
 The [XoopsCore](https://github.com/XOOPS/XoopsCore25) is a framework intended to be extended with [modules](https://github.com/XoopsModules25x) which provide the desired application functionality.
+
+![Xoops.org on Mobile](../../assets/xoops-on-mobile.png)

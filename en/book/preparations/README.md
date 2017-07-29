@@ -18,6 +18,8 @@ Download the XOOPS 2.5.9 release from [GitHub](https://github.com/XOOPS/XoopsCor
 
 Extract the files from the downloaded archive to prepare for copying to your server.
 
+![Working with XOOPS Zip](../../assets/zip-on-mobile.png)
+
 ## Decide on a Strategy
 
 The *htdocs* directory of the XOOPS distribution contains two special direcctories.

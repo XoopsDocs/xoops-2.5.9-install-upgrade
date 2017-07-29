@@ -10,7 +10,8 @@ This keeps users from encountering a broken site during the upgrade. It also
 keeps contention for resources to a minimum to ensure a smoother upgrade.
 
 Instead of errors and a broken site, your visitors will see something like this:
-![Site Closed on Mobile](../../assets/mobile-site-closed.jpg)
+
+![Site Closed on Mobile](../../assets/mobile-site-closed.png)
 
 ## Backup
 
