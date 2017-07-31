@@ -41,34 +41,3 @@
 
 ## Tools
 * [Tools of the Trade](book/tools/README.md)
-
-## Upgrading
-* [Upgrading](book/upgrade/README.md)
-    * Quick Overview
-* [Preparations for Upgrade](book/upgrade/ustep-01.md)
-    * Turn Site Off
-    * Backup
-        * Files
-        * Database
-    * Copy New Files to the Site
-        * Things You Might Not Want To Copy Over
-* [Running Upgrade](book/upgrade/ustep-02.md)
-    * Choosing a Language
-* [Troubleshooting](book/upgrade/ustep-03.md)
-    * Permission Issues
-    * Debugging Output
-* [After the Upgrade](book/upgrade/ustep-04.md)
-    *  Update the System Module
-    *  Update XOOPS Supplied Other Modules
-    *  Update Other Modules
-    *  Open Your Site
-
-## Moving a Site
-* [Moving a XOOPS Site](book/moving/README.md)
-
-## Notes for Developers
-* [For Developers](book/developers/README.md)
-
-## Tools
-* [Tools of the Trade](book/tools/README.md)
-
