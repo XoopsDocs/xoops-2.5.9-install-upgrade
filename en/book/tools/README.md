@@ -56,9 +56,16 @@ host system where the site will be deployed.
 platforms. The cross-platform consistency made it the choice for the FTP
 examples in this book.
 
+**PuTTY** is a free SSH client, useful for Shell access to a server, as
+well as providing file transfer capabilities with SCP
+
+**WinSCP** is a FTP/SFTP/SCP client for Windows systems.
+
 | Name | Link | License | Platform |
 | --- | --- | --- | --- |
 | FileZilla | https://filezilla-project.org/ | GPL | Any |
+| PuTTY | https://www.chiark.greenend.org.uk/~sgtatham/putty/ | BSD | Win/*nix |
+| WinSCP | https://winscp.net/eng/index.php | GPL | Windows |
 
 ## MySQL/MariaDB
 

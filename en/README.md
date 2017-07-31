@@ -30,6 +30,8 @@ Copyright © 2017 XOOPS Project (http://xoops.org)
     * [Welcome](book/installation/step-14.md)
     * [Cleanup](book/installation/step-20.md)
 * [First Steps](book/firststeps/README.md)
+    * [Review System Settings](book/firststeps/README.md)
+    * [Add a Module](book/firststeps/modules.md)
 
 ## Upgrading
 * [Upgrading](book/upgrade/README.md)

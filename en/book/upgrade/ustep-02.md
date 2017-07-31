@@ -11,6 +11,11 @@ This should show a page like this:
 
 Select the "Continue" button to proceed.
 
+Each "Continue" advances through another patch. Keep continuing until all
+patches are applied, and the System Module Update page is presented.
+
+![XOOPS Upgrade Applied Patch](../../assets/upgrade-05-applied.png)
+
 ## Choosing a Language
 The main XOOPS distribution comes with English support. Support for additional
 locales is supplied by [XOOPS Local support sites](http://www.xoops.org/modules/xoopspartners/).
@@ -23,4 +28,3 @@ If your XOOPS Upgrader has additional language support, you can change the langu
 by selecting the language icon in the top menus, and choosing a different language.
 
 ![XOOPS Upgrade Language](../../assets/upgrade-02-change-language.png)
-![XOOPS Upgrade Applied Patch](../../assets/upgrade-05-applied.png)

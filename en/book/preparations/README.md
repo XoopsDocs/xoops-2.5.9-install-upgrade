@@ -22,7 +22,7 @@ Extract the files from the downloaded archive to prepare for copying to your ser
 
 ## Decide on a Strategy
 
-The *htdocs* directory of the XOOPS distribution contains two special direcctories.
+The *htdocs* directory of the XOOPS distribution contains two special directories.
 - *xoops_data*
 - *xoops_lib*
 
@@ -38,12 +38,12 @@ such as database credentials, or possibly sensitive cached information.
 
 If these directories are placed unchanged into the web root (i.e. the
 *public_html* directory of many hosting accounts) the directories can
-easily be probed with a common web browser to verify the existance and
+easily be probed with a common web browser to verify the existence and
 location of the files. Combined with other vulnerabilities, perhaps even
 existing in other accounts on the same box, the sensitive information can
 be disclosed. Sometimes, you will find reports of a host accidentally
 introducing mis-configurations during a system upgrade, where php files
-are no longer executed, and instead are served as plain text!!
+are no longer executed, and instead are served as plain text!
 
 Relocating these directories out of the web root makes probing them with
 a browser impossible. Renaming them makes finding them even more difficult.

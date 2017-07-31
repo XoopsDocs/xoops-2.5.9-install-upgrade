@@ -88,9 +88,9 @@ hosting service, your values might look like this:
 
 After you have changed mainfile.php, save it.
 
-It is possible that some other files may hardcoded references to your URL
-or even paths. This is more likely in customized themes and menus, but
-with your editor, we can seach across all files, just to be sure.
+It is possible that some other files may contain hardcoded references to
+your URL or even paths. This is more likely in customized themes and menus,
+but with your editor, you can seach across all files, just to be sure.
 
 In your editor, do a search across the files in your copy, searching for
 the old XOOPS_URL value, and replace it with the new value.
@@ -122,7 +122,7 @@ the domain, such as:
 - Google Maps
 - Recaptch2
 - Like buttons
-- Link sharing and/or advertising such as Sharaholic, AddThis
+- Link sharing and/or advertising such as Shareaholic or AddThis
 
 Changing these types of associations cannot easily be automated, as the
 connections to the old domain are typically part of the registration on
@@ -201,4 +201,4 @@ create specialized tools such as Search-Replace-DB.
 At this point, your site should be ready to run in its new environment!
 
 Of course, there can always be problems. Don't be afraid to post any
-questions on the [XOOPS.org Forums](https://xoops.org/modules/newbb/index.php).
+questions on the [xoops.org Forums](https://xoops.org/modules/newbb/index.php).
