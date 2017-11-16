@@ -28,5 +28,5 @@ what is covered in each section:
 - **Meta Tags and Footer** - Change the default information included in HTML "meta" tags and page footer
 - **Word Censoring Options** - Control optional word censoring of user postings
 - **Search Options** - Enable or disable site search and control search options.
-- **Email Setup** - [Configure](book/firststeps/email.md) how site email is sent
+- **Email Setup** - [Configure](email.md) how site email is sent
 - **Authentication Options** - Optionally use AD or LDAP for authentication
