@@ -15,7 +15,7 @@ This section of the configuration has 4 possible values
 
 - **PHP Mail()** - the easiest way, if it is available. Depends on the system *sendmail* program.
 - **sendmail** - An industrial strength option, but often targeted for SPAM by exploiting weaknesses in other software.
-- **SMTP** - Simple Mail Transfer Protocol is not usually available in new hosting accounts due to security concerns and potential for abuse. It has largely been replaces with SMTP Auth.
+- **SMTP** - Simple Mail Transfer Protocol is not usually available in new hosting accounts due to security concerns and potential for abuse. It has largely been replaced with SMTP Auth.
 - **SMTP Auth** - SMTP with Authorization is usually prefered over plain SMTP. In this case XOOPS connects directly to the mail server in a more secure manner.
 
 ### SMTP Hosts
@@ -35,7 +35,7 @@ Another example using SSL: `ssl://mail.example.com:465`
 ### Tips for Troubleshooting
 
 Sometimes, things don't go as smooth as we might hope. Here are some suggestions
-ans resources that might help.
+and resources that might help.
 
 #### Check your hosting provider's documentation
 
