@@ -24,6 +24,7 @@
 
 ## First Steps
 * [Review System Settings](book/firststeps/README.md)
+* [Configure Email](book/firststeps/email.md)
 * [Add a Module](book/firststeps/modules.md)
 
 ## Upgrading
