@@ -3,7 +3,7 @@
 
 # The XOOPS 2.5.9 Install and Upgrade Guide
 
-## View it on: [![Gitbook](http://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/xoops-2.5.9-install-upgrade/)
+## View it on: [![Gitbook](https://xoops.org/images/logoGitbookSmall.png)](https://www.gitbook.com/book/xoops/xoops-2.5.9-install-upgrade/)
 
 Copyright © 2017 XOOPS Project ([xoops.org](https://xoops.org))
 
