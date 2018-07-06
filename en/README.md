@@ -1,9 +1,9 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # XOOPS 2.5.9 Installation Guide
 
-Copyright © 2017 XOOPS Project (https://xoops.org)
+Copyright © 2018 XOOPS Project (https://xoops.org)
 
 
 # Table of Contents
