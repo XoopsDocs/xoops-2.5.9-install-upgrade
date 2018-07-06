@@ -8,7 +8,7 @@ file and data updates, and more.
 The upgrader is tested against a variety of XOOPS installation, both old
 and new, but the process is smoothest with the most recent XOOPS releases.
 If you are upgrading a older system and need help, please visit our support
-forums at http://xoops.org/modules/newbb/
+forums at https://xoops.org/modules/newbb/
 
 ## Quick Overview
 
