@@ -71,3 +71,19 @@ want to preserve those. Here is a list of common customizations.
 
 If you realize after the upgrade that something was accidentally overwritten,
 don't panic -- that is why you started with a full backup. *(You did make a backup, right?)*
+
+## Check mainfile.php
+
+Old versions of XOOPS (i.e. 2.3) required some manual changes to be made in mainfile.php
+to enable the Protector module. In your web root you should have a file named
+`mainfile.php`. Open that file in your editor and look for these lines: 
+
+```PHP
+include XOOPS_TRUST_PATH.'/modules/protector/include/precheck.inc.php' ;
+```
+and
+```PHP
+include XOOPS_TRUST_PATH.'/modules/protector/include/postcheck.inc.php' ;
+```
+
+Remove these lines if you find them, and save the file before continuing.

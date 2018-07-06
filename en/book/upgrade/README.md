@@ -17,6 +17,8 @@ forums at https://xoops.org/modules/newbb/
  - It is wise to turn your site off in System Options - Preferences - General Settings
  - Copy the contents of the distribution htdocs directory into your web root directory. Be careful not to overwrite any customize configuration or theme files.
  - Copy the contents of htdocs/xoops_lib to your relocated/renamed xoops_lib as applicable
+ - Copy the contents of htdocs/xoops_data to your relocated/renamed xoops_data as applicable
+ - If you are upgrading from a pre-2.5 series XOOPS, check your mainfile.php for any old protector modifications and remove if found 
  - Copy the distribution upgrade directory into your web root directory
  - Point your browser to *your-site-url*/upgrade/ and follow the prompts
  - Log in and step through any needed updates with the "Continue" button
