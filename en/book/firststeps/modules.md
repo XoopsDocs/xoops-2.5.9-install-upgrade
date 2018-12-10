@@ -1,4 +1,4 @@
-# modules
+# Add a module
 
 Modules are the building blocks of XOOPS systems. Modules provide specific functionality that you can easily add to your XOOPS site. Modules can add calendars, forums, image galleries, article management and more.
 

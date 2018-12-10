@@ -1,4 +1,4 @@
-# README
+# Notes for Developers
 
 While the actual installation of XOOPS for development use is similar to the normal installation already described, there are key differences when building a developer ready system.
 
