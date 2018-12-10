@@ -1,4 +1,4 @@
-# Configure Email​l
+# Configure Emai​l
 
 ![XOOPS Email Configuration](../../../.gitbook/assets/xoops-04-email-setup.png)
 

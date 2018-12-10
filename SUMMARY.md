@@ -5,7 +5,7 @@
 * [XOOPS Documentation Series](en/README.md)
   * [book](en/book/README.md)
     * [Review System Settings](en/book/firststeps/README.md)
-      * [Configure Email​l](en/book/firststeps/email.md)
+      * [Configure Emai​l](en/book/firststeps/email.md)
       * [Add a module](en/book/firststeps/modules.md)
     * [​Preparations​](en/book/upgrade/README.md)
       * [ustep-04](en/book/upgrade/ustep-04.md)
