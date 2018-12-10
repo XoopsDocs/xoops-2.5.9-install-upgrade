@@ -28,7 +28,7 @@
       * [step-11](en/book/installation/step-11.md)
       * [step-10](en/book/installation/step-10.md)
       * [step-20](en/book/installation/step-20.md)
-    * [README](en/book/introduction.md)
+    * [Introduction](en/book/introduction.md)
     * [Tools of the Trade](en/book/tools.md)
     * [Preparations​](en/book/preparations/README.md)
       * [phpinfo](en/book/preparations/phpinfo.md)
