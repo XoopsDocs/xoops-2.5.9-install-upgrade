@@ -1,44 +1,40 @@
-# Table of Contents
+# Table of contents
 
-* [Introduction](en/book/introduction/README.md)
+* [XOOPS Documentation Series](README.md)
+* [LANGS](langs.md)
+* [XOOPS Documentation Series](en/README.md)
+  * [book](en/book/README.md)
+    * [README](en/book/firststeps/README.md)
+      * [email](en/book/firststeps/email.md)
+      * [modules](en/book/firststeps/modules.md)
+    * [​Preparations​](en/book/upgrade/README.md)
+      * [ustep-04](en/book/upgrade/ustep-04.md)
+      * [ustep-03](en/book/upgrade/ustep-03.md)
+      * [ustep-02](en/book/upgrade/ustep-02.md)
+      * [ustep-01](en/book/upgrade/ustep-01.md)
+    * [​Installation​](en/book/installation/README.md)
+      * [step-09](en/book/installation/step-09.md)
+      * [step-08](en/book/installation/step-08.md)
+      * [step-07](en/book/installation/step-07.md)
+      * [step-06](en/book/installation/step-06.md)
+      * [step-05](en/book/installation/step-05.md)
+      * [step-04](en/book/installation/step-04.md)
+      * [step-14](en/book/installation/step-14.md)
+      * [step-03](en/book/installation/step-03.md)
+      * [step-13](en/book/installation/step-13.md)
+      * [step-02](en/book/installation/step-02.md)
+      * [step-12](en/book/installation/step-12.md)
+      * [step-01](en/book/installation/step-01.md)
+      * [step-11](en/book/installation/step-11.md)
+      * [step-10](en/book/installation/step-10.md)
+      * [step-20](en/book/installation/step-20.md)
+    * [README](en/book/introduction.md)
+    * [Tools of the Trade](en/book/tools.md)
+    * [README](en/book/preparations/README.md)
+      * [phpinfo](en/book/preparations/phpinfo.md)
+    * [README](en/book/developers.md)
+    * [Moving a Site](en/book/moving.md)
+    * [Requirements​](en/book/requirements.md)
+  * [SUMMARY](en/summary.md)
+* [LICENSE](license.md)
 
-## Installation
-* [Requirements](en/book/requirements/README.md)
-* [Preparations](en/book/preparations/README.md)
-* [Installation](en/book/installation/README.md)
-    * [Language Selection](en/book/installation/step-01.md)
-    * [Welcome](en/book/installation/step-02.md)
-    * [Configuration Check](en/book/installation/step-03.md)
-    * [Path Setting](en/book/installation/step-04.md)
-    * [Database Connection](en/book/installation/step-05.md)
-    * [Database Configuration](en/book/installation/step-06.md)
-    * [Save Configuration](en/book/installation/step-07.md)
-    * [Table Creation](en/book/installation/step-08.md)
-    * [Initial Settings](en/book/installation/step-09.md)
-    * [Data Insertion](en/book/installation/step-10.md)
-    * [Site Configuration](en/book/installation/step-11.md)
-    * [Select Theme](en/book/installation/step-12.md)
-    * [Modules Installation](en/book/installation/step-13.md)
-    * [Welcome](en/book/installation/step-14.md)
-    * [Cleanup](en/book/installation/step-20.md)
-
-## First Steps
-* [Review System Settings](en/book/firststeps/README.md)
-    * [Configure Email](en/book/firststeps/email.md)
-* [Add a Module](en/book/firststeps/modules.md)
-
-## Upgrading
-* [Upgrading](en/book/upgrade/README.md)
-    * [Preparations for Upgrade](en/book/upgrade/ustep-01.md)
-    * [Running Upgrade](en/book/upgrade/ustep-02.md)
-    * [Troubleshooting](en/book/upgrade/ustep-03.md)
-    * [After the Upgrade](en/book/upgrade/ustep-04.md)
-
-## Moving a Site
-* [Moving a XOOPS Site](en/book/moving/README.md)
-
-## Notes for Developers
-* [For Developers](en/book/developers/README.md)
-
-## Tools
-* [Tools of the Trade](en/book/tools/README.md)
