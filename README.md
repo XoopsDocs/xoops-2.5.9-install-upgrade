@@ -1,4 +1,4 @@
-# XOOPS Documentation Series
+# The XOOPS 2.5.9 Install & Upgrade Guide
 
 ![XOOPS Logo](.gitbook/assets/logoxoops.jpg)
 

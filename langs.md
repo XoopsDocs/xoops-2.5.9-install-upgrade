@@ -1,4 +1,4 @@
 # LANGS
 
-* [English](en/)
+* [English](en.md)
 
