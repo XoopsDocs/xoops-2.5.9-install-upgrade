@@ -1,10 +1,10 @@
 # Table of contents
 
 * [The XOOPS 2.5.9 Install & Upgrade Guide](README.md)
-* [LANGS](langs.md)
 * [The XOOPS 2.5.9 Install & Upgrade Guide](en.md)
-* [Content](summary.md)
 * [Introduction](introduction.md)
+* [Content](summary.md)
+* [LANGS](langs.md)
 
 ## Installation
 
